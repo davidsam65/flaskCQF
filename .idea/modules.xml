@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../CQFpython/.idea/CQFpython.iml" filepath="$PROJECT_DIR$/../CQFpython/.idea/CQFpython.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/flaskCQF.iml" filepath="$PROJECT_DIR$/.idea/flaskCQF.iml" />
     </modules>
   </component>
